@@ -1,0 +1,14 @@
+.containerfluid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+}
+
+.imagehead a{
+    text-decoration: none;
+    color: #e7671d;
+}
